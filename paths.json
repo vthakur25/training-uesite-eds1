@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/training-uesite-eds1:/",
+    "/content/training-uesite-eds1/:/",
     "/content/training-uesite-eds1/configuration:/.helix/config.json",
     "/content/training-uesite-eds1/metadata:/metadata.json"
   ],
