@@ -106,7 +106,7 @@
     Scope the @keyframes to the block (teaser) to avoid accidental conflicts outside the block
   
     Global @keyframes can defines in styles/styles.css and used in this file.
-  **/
+
   
   @keyframes teaser-fade-in {
     from {
@@ -117,4 +117,5 @@
         opacity: 1;
     }
   }
+  **/
   
